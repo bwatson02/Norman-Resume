@@ -53,6 +53,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Applicable Coursework 
 - Data Science Programming (Python, R), SQL Databases, Excel Spreadsheet Analysis, Data Wrangling and Visualization, Statistics, APPL Calculus for Data Science, Economics. 
 
+Finish and add skills learned in each course above
 
 
 
